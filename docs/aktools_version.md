@@ -8,8 +8,11 @@
 4. 增加接口用户认证
 5. 增加用户自定义数据接口功能
 6. 增加主页及增强命令行支持
+7. 增加测试支持
 
 ## 开发进度
+
+0.0.77: add: add cli.py file
 
 0.0.76: fix: fix rename master to main
 
